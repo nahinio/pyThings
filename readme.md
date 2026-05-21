@@ -24,6 +24,16 @@ A text-based RPG battle game built to explore core OOP concepts in Python. Fight
 
 ---
 
+## 02 &nbsp;·&nbsp; Justice League Fake News Generator
+
+![Text Based](https://img.shields.io/badge/Text--Based-EC4899?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+A simple script that cycles through a predefined list of headlines and prints fake Justice League news using a loop.
+
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nahinio/pyThings/tree/main/2.%20Justice%20League%20Fake%20News%20Generator)
+
+---
+
 > More projects coming soon.
 
 
