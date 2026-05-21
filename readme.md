@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/pyThings-3776AB?style=flat-square&logo=python&logoColor=white" alt="pyThings" height="30"/>
 
 # pyThings
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Status](https://img.shields.io/badge/Status-Active-22C55E?style=flat-square) ![Projects](https://img.shields.io/badge/Projects-1-F97316?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Status](https://img.shields.io/badge/Status-Active-22C55E?style=flat-square) ![Projects](https://img.shields.io/badge/Projects-3-F97316?style=flat-square)
 
 `pyThings` is a personal collection of Python projects I build as I learn. Every project here covers something real, a concept, a problem, or a tool I wanted to understand better. The range goes from beginner scripts all the way to advanced applications.
 
@@ -31,6 +31,16 @@ A text-based RPG battle game built to explore core OOP concepts in Python. Fight
 A simple script that cycles through a predefined list of headlines and prints fake Justice League news using a loop.
 
 [![View Project](https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nahinio/pyThings/tree/main/2.%20Justice%20League%20Fake%20News%20Generator)
+
+---
+
+## 03 &nbsp;·&nbsp; History Saving Calculator
+
+![Utility](https://img.shields.io/badge/Utility-F97316?style=flat-square) ![Calculator](https://img.shields.io/badge/Calculator-6366F1?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+A command-line calculator that performs basic arithmetic operations and maintains a persistent history of all calculations.
+
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nahinio/pyThings/tree/main/3.%20History%20Saving%20Calculator)
 
 ---
 
