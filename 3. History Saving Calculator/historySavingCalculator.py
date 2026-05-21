@@ -1,16 +1,22 @@
-HISTORY_FILE = "history.txt"
+import os
+
+# place history file in the same folder as this script
+HISTORY_FILE = os.path.join(os.path.dirname(__file__), "history.txt")
 
 def show_history(history):
-    file = open(HISTORY_FILE, "r")
-    line = file.readlines()
-    if(len(line) == 0):
+    if not os.path.exists(history):
         print("No history found.\n")
-    else:
-        for line in reversed(line):
-            print(line.strip())
+        return
+
+    with open(history, "r") as file:
+        lines = file.readlines()
+        if len(lines) == 0:
+            print("No history found.\n")
+        else:
+            for line in reversed(lines):
+                print(line.strip())
 
     print()
-    file.close()
 
 
 def clear_history():
