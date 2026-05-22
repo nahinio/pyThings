@@ -12,36 +12,18 @@
 
 ---
 
+| Project | Description | View |
+|---|---|---|
+ | FightOOP - Learn OOP by fighting monsters in Python | A text-based RPG battle game built to explore core OOP concepts in Python. Fight zombies and ogres as a hero armed with weapons. | <a href="https://github.com/nahinio/pyThings/tree/main/1.%20FightOOP%20-%20Learn%20OOP%20by%20fighting%20monsters%20in%20Python"><img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Project" height="20"/></a> |
+ | Justice League Fake News Generator | A simple script that cycles through a predefined list of headlines and prints fake Justice League news using a loop. | <a href="https://github.com/nahinio/pyThings/tree/main/2.%20Justice%20League%20Fake%20News%20Generator"><img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Project" height="20"/></a> |
+ | History Saving Calculator | A command-line calculator that performs basic arithmetic operations and maintains a persistent history of all calculations. | <a href="https://github.com/nahinio/pyThings/tree/main/3.%20History%20Saving%20Calculator"><img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Project" height="20"/></a> |
 
-### FightOOP
-
-A text-based RPG battle game built to explore core OOP concepts in Python. Fight zombies and ogres as a hero armed with weapons, with each class demonstrating a different pillar of object-oriented design.
-
-
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nahinio/pyThings/tree/main/1.%20FightOOP%20-%20Learn%20OOP%20by%20fighting%20monsters%20in%20Python)
 
 ---
 
-### Justice League Fake News Generator
-
-
-A simple script that cycles through a predefined list of headlines and prints fake Justice League news using a loop.
-
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nahinio/pyThings/tree/main/2.%20Justice%20League%20Fake%20News%20Generator)
-
----
-
-### History Saving Calculator
-
-A command-line calculator that performs basic arithmetic operations and maintains a persistent history of all calculations.
-
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nahinio/pyThings/tree/main/3.%20History%20Saving%20Calculator)
-
----
+<div align="center">
 
 > More projects coming soon.
-
-
 
 ![Made with Python](https://img.shields.io/badge/Made%20with%20Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Learning in Public](https://img.shields.io/badge/Learning%20in%20Public-F97316?style=flat-square)
 
