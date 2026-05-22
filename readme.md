@@ -13,9 +13,7 @@
 ---
 
 
-## 01 &nbsp;·&nbsp; FightOOP
-
-![OOP](https://img.shields.io/badge/OOP-8B5CF6?style=flat-square) ![Text Based](https://img.shields.io/badge/Text--Based-EC4899?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### FightOOP
 
 A text-based RPG battle game built to explore core OOP concepts in Python. Fight zombies and ogres as a hero armed with weapons, with each class demonstrating a different pillar of object-oriented design.
 
@@ -24,9 +22,8 @@ A text-based RPG battle game built to explore core OOP concepts in Python. Fight
 
 ---
 
-## 02 &nbsp;·&nbsp; Justice League Fake News Generator
+### Justice League Fake News Generator
 
-![Text Based](https://img.shields.io/badge/Text--Based-EC4899?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 A simple script that cycles through a predefined list of headlines and prints fake Justice League news using a loop.
 
@@ -34,9 +31,7 @@ A simple script that cycles through a predefined list of headlines and prints fa
 
 ---
 
-## 03 &nbsp;·&nbsp; History Saving Calculator
-
-![Utility](https://img.shields.io/badge/Utility-F97316?style=flat-square) ![Calculator](https://img.shields.io/badge/Calculator-6366F1?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### History Saving Calculator
 
 A command-line calculator that performs basic arithmetic operations and maintains a persistent history of all calculations.
 
